@@ -2,7 +2,7 @@
 practice with Julia  
 
 ##Ideas for Projects:
-- statistical learning (by H, T, F)
+- statistical learning (by Hastie, Friedman, & Tibshirani)
   - linear discriminate analysis using GLM and LM machinery
 - implement a kernel density function in Julia  
     - notes here: http://www.stat.colostate.edu/computationalstatistics/  

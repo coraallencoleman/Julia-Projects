@@ -2,6 +2,8 @@
 practice with Julia  
 
 ##Ideas for Projects:
+- statistical learning (by H, T, F)
+  - linear discriminate analysis using GLM and LM machinery
 - implement a kernel density function in Julia  
     - notes here: http://www.stat.colostate.edu/computationalstatistics/  
     - create a multi-thread version by splitting using julia's @threads?

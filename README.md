@@ -25,9 +25,9 @@ https://juliabox.com/ - in browser, like jupyter notebook
 
 ##Notes and Tutorials:  
 - julia class notes from computational tools for data analytics (STAT 679 at University of Wisconsin
-  - [120616](stat679ComputingTools/notes/679Notes120616.Rmd)
-  - [120816](stat679ComputingTools/notes/679Notes120816.Rmd)
-- [Doug Bates's Lecture 12/13/16](stat679ComputingTools/notes/679Notes121316.Rmd)
+  - [12/06/16](stat679ComputingTools/notes/679Notes120616.Rmd)
+  - [12/08/16](stat679ComputingTools/notes/679Notes120816.Rmd)
+  - [12/13/16: Doug Bates's Lecture](stat679ComputingTools/notes/679Notes121316.Rmd)
 - http://cecileane.github.io/computingtools/pages/notes1206.html    
 - http://julialang.org/learning/  
 - https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way  

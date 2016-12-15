@@ -1,12 +1,11 @@
 # Julia-Projects  
-practice with Julia  
 
 ##Ideas for Projects:
 - statistical learning (by Hastie, Friedman, & Tibshirani)
   - linear discriminate analysis using GLM and LM machinery
 - implement a kernel density function in Julia  
     - notes here: http://www.stat.colostate.edu/computationalstatistics/  
-    - create a multi-thread version by splitting using julia's @threads?
+    - create a multi-thread version by splitting using julia's @threads? (try with SLURM?)
     - expand to two-dimensional kernel density function  
     - expand to allow adaptive bandwidth  
 - use AdaBoost to implement a boosting method  
